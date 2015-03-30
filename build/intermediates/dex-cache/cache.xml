@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vidit/Apps/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-2e7cd88b962916d46905ec2aa37af5d06ccfa717.jar" />
+    </item>
+    <item
+        jar="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/pre-dexed/debug/classes-32007da9c1891d3a0e42a7136135dffc6c795316.jar" />
+    </item>
+    <item
+        jar="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ecd0319d2f00773fda1c6925e7f8060039ab4da2.jar" />
+    </item>
+    <item
+        jar="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/pre-dexed/debug/classes-4cc9b947f3dec87deab75b0bb1ece64c4e82a305.jar" />
+    </item>
+    <item
+        jar="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/pre-dexed/debug/classes-991327fceeaeba47c9b5f97462e189c33fab8ebc.jar" />
+    </item>
+    <item
+        jar="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/pre-dexed/debug/classes-252bcf0446638360acb910b3c4c6b6606875de01.jar" />
+    </item>
+    <item
+        jar="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/pre-dexed/debug/classes-ee1202c520a61f1e4b981ee14b2bfea33db48263.jar" />
+    </item>
+    <item
+        jar="/home/vidit/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.15/9093a362d18c5f81f58e49d86dece57d9b6e1cb7/library-1.0.15.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/pre-dexed/debug/library-1.0.15-ed068bcd403f2f8d2f5894e973962072d9990f92.jar" />
+    </item>
+    <item
+        jar="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="/home/vidit/AndroidStudioProjects/CollegeFeed/app/build/intermediates/pre-dexed/debug/classes-52f56b6e0330d03e63393a85890f01f2ad01399a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">College Feed</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_remind">Reminders</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >What\'s Hot</item>
+        <item >Find People</item>
+        <item >Photos</item>
+        <item >Communities</item>
+        <item >Time Table</item>
+        <item >Reach Us</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_place</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="default_news_image">image</string>
+    
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+
+    
+    <string name="nine">09:00</string>
+    <string name="ten">10:00</string>
+    <string name="eleven">11:00</string>
+    <string name="twelve">12:00</string>
+    <string name="two">02:00</string>
+    <string name="three">03:00</string>
+    <string name="four">04:00</string>
+
+    <string-array name="branch_items">
+    	<item>B.Tech CSE</item>
+    	<item>B.Tech EEE</item>
+    	<item>B.Tech ECE</item>
+    	<item>M.Tech CSE</item>
+    	<item>M.Tech EEE</item>
+    	<item>M.Tech ECE</item>
+    </string-array>
+    <string-array name="btech_year_items">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+    </string-array>
+    <string-array name="mtech_year_items">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+    </string-array>
+
+    <string name="sample">Sample</string>
+
+    <string name="home_text"></string>
+
+</resources>

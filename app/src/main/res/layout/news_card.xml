@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp"
+    card_view:cardCornerRadius="0dp"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/newsImage"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:src="@android:drawable/ic_menu_report_image" 
+            android:contentDescription="@string/default_news_image"/>
+
+        <TextView
+            android:id="@+id/newsSubject"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/newsImage"
+            android:layout_toEndOf="@+id/newsImage"
+            android:textColor="#000000" 
+            android:textStyle="bold"
+            android:layout_marginLeft="5dp"
+        	android:layout_marginStart="5dp"/>
+
+        <TextView
+            android:id="@+id/newsDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/newsSubject"
+            android:layout_alignStart="@+id/newsSubject"
+            android:layout_below="@+id/newsSubject"
+            android:maxLines="3"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"/>
+ 
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
